@@ -1,5 +1,6 @@
 a=5
 b=6
-sum =a+b
-print "Sum of 2 numbers is " sum
+c=11
+sum =a+b+c
+print "Sum of 3 numbers is " sum
 
